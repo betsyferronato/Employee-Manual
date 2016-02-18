@@ -21,7 +21,7 @@ The Center for Open Science (COS) was founded January 15, 2013. COS aims to incr
 
 1. Developing, maintaining, and connecting infrastructures that support the research workflow and enable open practices.
 2. Building a community of developers, scientists, and scientific stakeholders around open practices.
-3. Conducting metascience research to improve the empirical evidence for the state of scientific practices and evaluation of means to improve those practices. 
+3. Conducting metascience research to improve the empirical evidence for the state of scientific practices and evaluation of means to improve those practices. Please and Thank you.
 
 Daily Standup Meetings
 ------------------
